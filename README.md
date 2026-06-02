@@ -5,6 +5,10 @@ This repository documents the deployment of a resilient, scalable web architectu
 **Live Site:** [portfolio-alb-1039296210.us-east-2.elb.amazonaws.com](http://portfolio-alb-1039296210.us-east-2.elb.amazonaws.com)
 
 ---
+<p align="center">
+  <img src="./EC2 Architecture Diagram" alt="EC2 Architecture Diagram" width="650">
+</p>
+---
 
 ## 📐 Infrastructure Design
 
