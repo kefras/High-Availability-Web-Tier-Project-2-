@@ -6,7 +6,7 @@ This repository documents the deployment of a resilient, scalable web architectu
 
 ---
 <p align="center">
-  <img src="./EC2 Architecture Diagram" alt="EC2 Architecture Diagram" width="650">
+  <img src="./EC2 Architecture Diagram.png" alt="EC2 Architecture Diagram" width="650">
 </p>
 ---
 
